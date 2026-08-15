@@ -3,6 +3,10 @@
 **Trình chỉnh sửa video cho nội dung ngắn (dọc 9:16) trên Windows 10/11.**
 **A short-form (vertical 9:16) video editor for Windows 10/11.**
 
+> 🌐 **VidBake Studio là một sản phẩm của VidBake — [vidbake.com](https://vidbake.com/).**
+> Ghé thăm để dùng thêm nhiều công cụ khác.
+> **A VidBake product — [vidbake.com](https://vidbake.com/). Visit for more tools.**
+
 ---
 
 ## 🇻🇳 Tiếng Việt
@@ -37,6 +41,6 @@ No separate Python or FFmpeg installation required — everything is bundled in 
 
 ---
 
-© 2026 VidBake Studio. Phần mềm sử dụng / This software uses FFmpeg, Qt (PySide6),
-MediaPipe, và các thư viện mã nguồn mở khác — xem `THIRD-PARTY-NOTICES` kèm trong
-bộ cài / see `THIRD-PARTY-NOTICES` bundled with the installer.
+© 2026 VidBake · [vidbake.com](https://vidbake.com/). Phần mềm sử dụng / This software
+uses FFmpeg, Qt (PySide6), MediaPipe, và các thư viện mã nguồn mở khác — xem
+`THIRD-PARTY-NOTICES` kèm trong bộ cài / see `THIRD-PARTY-NOTICES` bundled with the installer.
